@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Bannière animée avec effet machine à écrire -->
-  <a href="https://github.com/Z3ryth">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Hey+%2C+I'm+Lucas+(Z3ryth)+👋;Full-Stack+Developer+%26+AI+Builder+⚡;Building+Modern+CLI+Tools+%26+Automation+🛠️;Blender+3D+%26+Game+Dev+Enthusiast+🎮;Exploring+Model+Context+Protocol+(MCP)+🔌" alt="Typing SVG" />
-  </a>
+<!-- Bannière animée Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Hey+there%2C+I+am+Lucas+(Z3ryth);Full-Stack+Developer+%26+AI+Builder;Building+Modern+CLI+Tools+%26+Automation;Blender+3D+%26+Game+Dev+Enthusiast;Model+Context+Protocol+(MCP)+Explorer" alt="Typing SVG" />
 
   <p align="center">
     <b>Crafting fast, intelligent terminal tools, automation pipelines & creative tech.</b><br>
