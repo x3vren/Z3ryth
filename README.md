@@ -62,7 +62,7 @@ const developer: Developer = {
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://github.com/Z3ryth/CLI-FS">⚡ CLI-FS (Terminal AI Assistant)</a></h3>
+      <h3><a href="https://github.com/x3vren/CLI-FS">⚡ CLI-FS (Terminal AI Assistant)</a></h3>
       <p>High-performance developer CLI assistant featuring native <b>Model Context Protocol (MCP)</b> support, customizable themes, token optimization, and intelligent code folding.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js" />
@@ -78,16 +78,16 @@ const developer: Developer = {
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z3ryth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3ryth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x3vren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3vren&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z3ryth&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&stroke=00FF9D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x3vren&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&stroke=00FF9D" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ Engineered by <b>Lucas (Z3ryth)</b></sub>
+  <sub>⚡ Engineered by <b>Lucas (x3vren)</b></sub>
 </div>
